@@ -34,5 +34,8 @@ p{
     .container{
         grid-template-columns: repeat(2, 1fr);
     }
+    body{
+        background-color: thistle;
+    }
 }
 
