@@ -37,5 +37,14 @@ p{
     body{
         background-color: thistle;
     }
+    .food{
+        border: 2px solid black;
+    }
+    h1{
+        color: black;
+    }
+    p{
+        color: black;
+    }
 }
 
